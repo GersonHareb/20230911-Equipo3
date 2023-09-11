@@ -3,7 +3,7 @@
 # Helen Vásquez
 # Javier Moreno
 
-# ** Helen Vásquez **
+# Helen Vásquez
 
 ## Lima, Perú
 
